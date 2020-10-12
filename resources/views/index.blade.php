@@ -183,9 +183,9 @@ html {
             
         </div>
         <nav>
-            <ul class="links">
+            <ul class="">
                 <li>
-                    <div >
+                    <div>
                         <a href = "http://localhost/%e5%ad%b8%e9%95%b7,%e5%a8%81%e5%93%a5/laravel/public">首頁</a>
                     </div>
                 </li>
